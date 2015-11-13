@@ -1,0 +1,34 @@
+\t					# tab
+\r					# form feed 
+\n					# newline
+\a					# bell
+
+*						# multiply operation
+-						# subraction operation
++						# addition operation
+/						# division operation
+%						# modulo operation (gives remainder)
+
+\						# in a string, this renders the following char into a text char
+%						# indicates a variable to be formatted and placed in a print string
+,						# indicates a variable to be added onto a print string
+"""					# start a block of text (string)
+"""					# end a block of text (string)
+
+def					# indicates the start of a function/method definition
+print				# writes strings to stdout
+raw_input()	# preferred method to receive user input
+input()			# not preferred method -- has security problems
+open()			# takes a filename, returns a file object
+read()			# method called on a file object to read the file
+truncate()	# method called on a file object to empty the file
+write()			# file object method to write or append to the file
+						# depending on the way the file was opened
+close()			# file object method to close the file
+seek()			# move the location of interest in a given file
+
+sys					# a module
+argv				# a library var in sys that takes all command line args, 
+						# starting with the script name
+path				# a library var in sys
+maxint			# a library var in sys

@@ -1,0 +1,9 @@
+Python script at https://github.com/leonardr/olipy
+
+questions:
+
+- what's the difference between using import and using from-import?
+- there's a class in this one! it takes an object.
+- what's __init__?
+
+okay, I got totally distracted by olipy source and I want to use it for my NaNoGenMo terrible romance novel project, so I'm going to keep going with the Learn Python the Hard Way and come back to this. 

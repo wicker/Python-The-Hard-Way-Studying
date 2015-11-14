@@ -1,0 +1,23 @@
+# getting the hang of it
+
+# Make a class named X that is-a Y
+# The class X inherits from Y
+class X(Y)
+
+# Class X has-a __init__ that takes self and J parameters
+# An object of class X is instantiated with parameters of its own and from J
+class X(object): def __init__(self,J)
+
+# Class X has-a function named M that takes self and J parameters
+# There's a function in class X that takes paramters from M and J
+class X(object): def M(self,J)
+
+# Foo is an instance of class X
+foo = X()
+
+# Call foo's function M, using parameters from foo and J
+foo.M(J)
+
+# Call foo's function K and assign it the value of Q
+foo.K = Q
+

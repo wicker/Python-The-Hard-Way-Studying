@@ -1,0 +1,47 @@
+Setting up the engine for a simple Dinotopia story
+
+A small, simple setting, such as a part of Waterfall City. Constrained goal with easily conquered obstacles. 
+
+--- option #1
+
+The character is a dolphinback who's settled into Waterfall City and learned the language but you're still grappling with culture shock and you have no idea what you want to do with your life. 
+
+- skybax meeting
+- poetry/writing ("don't I have to make money with this?") 
+- engineering
+- mediation
+- doctor
+
+All of this depends on who you are, as opposed to what you choose to do. 
+
+--- option #2 
+
+Location could be Treetown, Canyon City, a random rookery, Sauropolis. What's a compelling set of things to do? The cool part of Dinotopia for me is being able to imagine yourself there, so the big draw is building your character in an organic way. 
+
+Wake up, but there's something you forgot to do today. Putter around the room, get some hints at who you are. Choosing what you see and interact with determines your age, nestfriend, and profession. See option #3 for the endgame, in which you discover the thing to be done today, and determine how well you do at it.  
+
+Stages
+1. Looking around the room you awake in
+2. Getting dressed
+3. Getting some sense of physicality
+4. Man checks in on you - that was a nasty bump on the head! I've got to run, but can you take this scrollwork to breakfast? No rush... but don't take too long, all right? Big day today!
+5. Talking to a little boy in the corridor who has a spelling problem to solve, which resolves itself into English letters as your head clears. 
+6. Meeting with a skybax on the way -- you either have one or you don't, should you have one? 
+7. Finding your way to breakfast and deliver the paperwork, and where you're going is resolved. 
+8. Leave on a sense of ... do you feel up to it? 
+
+Teenager -> Going on a journey to Treetown for summer camp. 
+Apprentice Rider -> Flying caravan escort duty through the Rainy Basin. 
+Master Rider -> Teaching a class on thermals at Volcaneum. 
+
+Player
+	Name
+	Clothes
+	Nestfriend
+	Age
+	Profession
+Scene
+
+--- option #3
+
+All of option #2 but you also discover the thing to be done today, and determine how well you do at it. 
